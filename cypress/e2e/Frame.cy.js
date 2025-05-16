@@ -11,9 +11,6 @@ describe('HandleIframe',()=>{
         cy.iframe().find("a[href='mentorship']").eq(0).click()
     })
 
-   
-
-
       });
       
       
