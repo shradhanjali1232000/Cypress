@@ -54,7 +54,5 @@ describe('Alerts',()=>{
     })
 
 })
-        
-})
 
    
