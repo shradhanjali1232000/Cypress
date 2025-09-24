@@ -50,10 +50,6 @@ describe("AssertionDemo",()=>{
             assert.notEqual(actname,expctname)
 
 
-
-
-
-
          })
 
         //jenkins test
